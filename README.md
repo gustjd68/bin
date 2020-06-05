@@ -1,3 +1,3 @@
 
-<img src="./image/bin1.JPG">
+<img src=".\image\bin1.JPG">
 
