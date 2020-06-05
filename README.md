@@ -1,1 +1,3 @@
-![bin](C:\Users\ehxhf\IdeaProjects\bin\image)
+![bin](C:\Users\ehxhf\IdeaProjects\bin\image.jpg)
+
+
